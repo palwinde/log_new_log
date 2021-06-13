@@ -1,0 +1,19 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "description": "log",
+  "main": "log",
+  "scripts": {
+    "test": "noode log.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palwinde/log.git"
+  },
+  "author": "pals <palwinder198744@yahoo.co.in> (https://creamycode.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palwinde/log/issues"
+  },
+  "homepage": "https://github.com/palwinde/log#readme"
+}
